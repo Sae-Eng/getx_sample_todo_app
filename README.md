@@ -1,6 +1,6 @@
 # GetX Sample Todo App
 
-このリポジトリは、GetXを使用したTodoアプリのサンプルプロジェクトです。このプロジェクトは、[このZennの記事](https://zenn.dev/articles/dcf7497117fb2b/edit)に従って作成されました。
+このリポジトリは、GetXを使用したTodoアプリのサンプルプロジェクトです。このプロジェクトは、[このZennの記事](https://zenn.dev/sae_eng/articles/dcf7497117fb2b)に従って作成されました。
 
 ## 概要
 
@@ -47,4 +47,4 @@ GetX Sample Todo Appは、GetXを使った簡単なTodoアプリです。この�
 ## 参考資料
 
 - [GetX公式ドキュメント](https://pub.dev/packages/get)
-- [Zenn記事: GetXを使った簡単なTodoアプリの作り方](https://zenn.dev/articles/dcf7497117fb2b/edit)
+- [Zenn記事: GetXを使った簡単なTodoアプリの作り方](https://zenn.dev/sae_eng/articles/dcf7497117fb2b)
